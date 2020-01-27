@@ -1,4 +1,12 @@
+http://g2pc1.bu.edu/~qzpeng/manual/MySQL%20Commands.htm
+
 >>> To go in mysql database type
 
-# mysql -u root -p            (-p for password)
+# mysql -u root -p                  (-p for password)
+
+# show databases;
+# use SkyTech                       (SkyTech is the name of databasde)
+# show tables;
+# describe login;                   (login is the name of tables)
+# select * from login;              (show all data of tables)
 
