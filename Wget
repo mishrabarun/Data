@@ -1,0 +1,5 @@
+--->> To avoid downloading the auto-generated index.html files, use the -R/--reject option:
+### wget -r -np -R "index.html*" http://example.com/configs/
+
+### wget --recursive --no-parent http://example.com/configs/
+
