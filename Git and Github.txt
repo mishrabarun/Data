@@ -90,3 +90,11 @@
 ==>git push -u origin master
         (it will push to your master branch)
 
+==>git pull origin master
+        (it will pull all the file from master to current branch)
+
+==>git rm -r .
+        (used to remove all file from current branch)
+        
+==>git branch -d DGSHAssignment2
+        (-d for delete the branch)
