@@ -60,7 +60,7 @@
 ==>git branch Assignment1
         (to create a branch)
 
-==>git branch
+==>git branch -a
         (show how many branches are present)
 
 ==>git checkout Assignment1
